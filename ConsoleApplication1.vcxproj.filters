@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleApplication1.cpp">
+    <ClCompile Include="TECTO8OE-3ADAHNE.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
